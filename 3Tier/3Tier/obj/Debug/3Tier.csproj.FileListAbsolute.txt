@@ -1,0 +1,9 @@
+C:\Users\seshu\Desktop\3Tier\3Tier\obj\Debug\3Tier.csprojResolveAssemblyReference.cache
+C:\Users\seshu\Desktop\3Tier\3Tier\bin\3Tier.dll
+C:\Users\seshu\Desktop\3Tier\3Tier\bin\3Tier.pdb
+C:\Users\seshu\Desktop\3Tier\3Tier\bin\BLL.dll
+C:\Users\seshu\Desktop\3Tier\3Tier\bin\DAL.dll
+C:\Users\seshu\Desktop\3Tier\3Tier\bin\BLL.pdb
+C:\Users\seshu\Desktop\3Tier\3Tier\bin\DAL.pdb
+C:\Users\seshu\Desktop\3Tier\3Tier\obj\Debug\3Tier.dll
+C:\Users\seshu\Desktop\3Tier\3Tier\obj\Debug\3Tier.pdb

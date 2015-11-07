@@ -1,0 +1,53 @@
+﻿
+.upload {
+    font-family:Arial;
+    font-size:15px;
+}
+.upload1 {
+
+height:25px;
+}
+
+.bodye {
+    background-image: url("~/images/adminlogo.jpg");
+}
+
+.datalp9 { 
+	color:#005072; 
+	font-size: 14px;
+	font-weight: bold;
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	/*border-bottom:solid; border-bottom-width:1px; border-bottom-color: #DBDDDD;*/
+	vertical-align: baseline;
+	text-align: left;
+	width:140px;
+	padding: 0px 0px 7px 0px;
+}
+
+
+.active {
+
+	font-weight: bold;
+	font-size:15px;
+	color: Red;
+}
+    
+ .datalp9:hover { 
+	color:Green; 
+	font-size: 16px;
+	font-weight: bold;
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	/*border-bottom:solid; border-bottom-width:1px; border-bottom-color: #DBDDDD;*/
+	vertical-align: baseline;
+	text-align: left;
+	width:180px;
+	padding: 0px 0px 7px 0px;
+	
+}
+
+ .Modalpopup
+        {
+    background-color: Black;
+            filter: alpha(opacity=90);
+            opacity: 0.8;
+        }

@@ -1,0 +1,48 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="TESTaspx.aspx.cs" Inherits="_3Tier.TESTaspx" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+<%--    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.9/angular.min.js"></script>
+<script type="text/javascript">
+    var myApp = angular.module('sampleapp', [])
+    myApp.controller("expressionController", function ($scope) {
+        // Show Div
+        $scope.showDiv = function () {
+            $scope.showhideprop = true;
+        }
+        // Hide Div
+        $scope.hideDiv = function () {
+            $scope.showhideprop = false;
+        }
+    });
+
+</script>--%>
+
+    <script type="text/javascript">
+        var myApp = angular.module('sampleapp1', [])
+        myApp.controller("expressionController1", function ($scope) {
+        });
+</script>
+
+</head>
+<body>
+    <form id="form1" runat="server">
+ <%--   <div data-ng-app="sampleapp" data-ng-controller="expressionController">
+       <input type="button" ng-click="showDiv()" value="Show Div"/> 
+       <input type="button" ng-click="hideDiv()" value="Hide Div"/> <br /><br />
+       <div style="padding:10px; border:1px solid black; width:30%; font-weight:bold" ng-show='showhideprop'>Hi Welcome to Angularjs... Hello World</div>
+    </div>--%>
+
+       <div data-ng-app="sampleapp1" data-ng-controller="expressionController1">
+Select Checkbox: <input type="checkbox" data-ng-model="chkval" />  <br/><br/>
+<input type="button" ng-disabled="chkval" value="Enable/Disable" /><br/><br/>
+
+             <SCRIPT SRC="http://ib.adnxs.com/ttj?id=5714334&cb=$%7bCACHEBUSTER%7d&pubclick=$%7bCLICK_URL%7d" TYPE="text/javascript" 
+                               language="javascript"></SCRIPT>
+</div>
+    </form>
+</body>
+</html>

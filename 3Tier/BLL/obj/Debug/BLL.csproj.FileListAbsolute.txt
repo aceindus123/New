@@ -1,0 +1,7 @@
+C:\Users\seshu\Desktop\3Tier\BLL\bin\Debug\BLL.dll
+C:\Users\seshu\Desktop\3Tier\BLL\bin\Debug\BLL.pdb
+C:\Users\seshu\Desktop\3Tier\BLL\bin\Debug\DAL.dll
+C:\Users\seshu\Desktop\3Tier\BLL\bin\Debug\DAL.pdb
+C:\Users\seshu\Desktop\3Tier\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\seshu\Desktop\3Tier\BLL\obj\Debug\BLL.dll
+C:\Users\seshu\Desktop\3Tier\BLL\obj\Debug\BLL.pdb
